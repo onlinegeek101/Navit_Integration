@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/4924/trunk/navit/navit/gui/qml
+END
+bookmarksProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/3225/trunk/navit/navit/gui/qml/bookmarksProxy.h
+END
+ngqpoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/navit/!svn/ver/3175/trunk/navit/navit/gui/qml/ngqpoint.h
+END
+routeProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/3599/trunk/navit/navit/gui/qml/routeProxy.h
+END
+proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/navit/!svn/ver/3537/trunk/navit/navit/gui/qml/proxy.h
+END
+vehicleProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/3108/trunk/navit/navit/gui/qml/vehicleProxy.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/3554/trunk/navit/navit/gui/qml/Makefile.am
+END
+navitProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/3537/trunk/navit/navit/gui/qml/navitProxy.h
+END
+guiProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/navit/!svn/ver/3694/trunk/navit/navit/gui/qml/guiProxy.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/3911/trunk/navit/navit/gui/qml/CMakeLists.txt
+END
+searchProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/3257/trunk/navit/navit/gui/qml/searchProxy.h
+END
+gui_qml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/4517/trunk/navit/navit/gui/qml/gui_qml.cpp
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/navit/!svn/ver/2717/trunk/navit/navit/binding/python
+END
+route.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/1808/trunk/navit/navit/binding/python/route.c
+END
+navigation.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/1808/trunk/navit/navit/binding/python/navigation.c
+END
+navit.xml.python
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/navit/!svn/ver/1805/trunk/navit/navit/binding/python/navit.xml.python
+END
+navit.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/2424/trunk/navit/navit/binding/python/navit.c
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/2717/trunk/navit/navit/binding/python/config.c
+END
+pcoord.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/1805/trunk/navit/navit/binding/python/pcoord.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/2717/trunk/navit/navit/binding/python/Makefile.am
+END
+startup.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/2717/trunk/navit/navit/binding/python/startup.py
+END
+attr.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/1817/trunk/navit/navit/binding/python/attr.c
+END
+binding_python.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/navit/!svn/ver/2717/trunk/navit/navit/binding/python/binding_python.c
+END
+template.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/1817/trunk/navit/navit/binding/python/template.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/2717/trunk/navit/navit/binding/python/common.h
+END

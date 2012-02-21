@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/support/xgetopt
+END
+XGetopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/3969/trunk/navit/navit/support/xgetopt/XGetopt.h
+END
+getopt_long.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/navit/!svn/ver/4007/trunk/navit/navit/support/xgetopt/getopt_long.c
+END
+getopt_long.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/navit/!svn/ver/4007/trunk/navit/navit/support/xgetopt/getopt_long.h
+END
+XGetopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/4812/trunk/navit/navit/support/xgetopt/XGetopt.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/navit/!svn/ver/4811/trunk/navit/navit/support/xgetopt/CMakeLists.txt
+END

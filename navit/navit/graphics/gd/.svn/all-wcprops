@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/navit/!svn/ver/3672/trunk/navit/navit/graphics/gd
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/2347/trunk/navit/navit/graphics/gd/Makefile.am
+END
+graphics_gd.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/3672/trunk/navit/navit/graphics/gd/graphics_gd.c
+END

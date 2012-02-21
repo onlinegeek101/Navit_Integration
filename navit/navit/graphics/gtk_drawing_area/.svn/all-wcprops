@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/graphics/gtk_drawing_area
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/navit/!svn/ver/2347/trunk/navit/navit/graphics/gtk_drawing_area/Makefile.am
+END
+graphics_gtk_drawing_area.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/navit/!svn/ver/4768/trunk/navit/navit/graphics/gtk_drawing_area/graphics_gtk_drawing_area.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/navit/!svn/ver/3701/trunk/navit/navit/graphics/gtk_drawing_area/CMakeLists.txt
+END

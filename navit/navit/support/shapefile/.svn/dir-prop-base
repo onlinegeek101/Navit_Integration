@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 59
+.deps
+Makefile.in
+Makefile
+
+CMakeFiles
+cmake_install.cmake
+
+END

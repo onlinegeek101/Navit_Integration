@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/navit/!svn/ver/4944/trunk/navit
+END
+GPL-2
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/navit/!svn/ver/1100/trunk/navit/GPL-2
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/navit/!svn/ver/829/trunk/navit/AUTHORS
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/navit/!svn/ver/3346/trunk/navit/Makefile.inc
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/navit/!svn/ver/4892/trunk/navit/configure.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/navit/!svn/ver/1066/trunk/navit/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/navit/!svn/ver/3868/trunk/navit/COPYING
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/navit/!svn/ver/1100/trunk/navit/COPYRIGHT
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/navit/!svn/ver/3383/trunk/navit/Makefile.am
+END
+config.h.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/navit/!svn/ver/4807/trunk/navit/config.h.cmake
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/navit/!svn/ver/3238/trunk/navit/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/navit/!svn/ver/9/trunk/navit/NEWS
+END
+LGPL-2
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/navit/!svn/ver/1100/trunk/navit/LGPL-2
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/navit/!svn/ver/1526/trunk/navit/README
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/navit/!svn/ver/4892/trunk/navit/CMakeLists.txt
+END

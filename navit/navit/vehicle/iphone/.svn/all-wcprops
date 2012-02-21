@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/vehicle/iphone
+END
+vehicle_iphone.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/navit/!svn/ver/2745/trunk/navit/navit/vehicle/iphone/vehicle_iphone.c
+END
+corelocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/navit/!svn/ver/2525/trunk/navit/navit/vehicle/iphone/corelocation.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/2525/trunk/navit/navit/vehicle/iphone/Makefile.am
+END
+corelocation.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/navit/!svn/ver/2525/trunk/navit/navit/vehicle/iphone/corelocation.m
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/navit/!svn/ver/4707/trunk/navit/navit/vehicle/iphone/CMakeLists.txt
+END

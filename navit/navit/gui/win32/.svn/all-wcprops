@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/gui/win32
+END
+win32_gui_notify.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/navit/!svn/ver/1508/trunk/navit/navit/gui/win32/win32_gui_notify.c
+END
+win32_gui_notify.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/navit/!svn/ver/1504/trunk/navit/navit/gui/win32/win32_gui_notify.h
+END
+ceglue.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/navit/!svn/ver/1602/trunk/navit/navit/gui/win32/ceglue.c
+END
+gui_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/2424/trunk/navit/navit/gui/win32/gui_win32.c
+END
+win32_gui_destination.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/navit/!svn/ver/2848/trunk/navit/navit/gui/win32/win32_gui_destination.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/2347/trunk/navit/navit/gui/win32/Makefile.am
+END
+ceglue.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/navit/!svn/ver/1602/trunk/navit/navit/gui/win32/ceglue.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/3589/trunk/navit/navit/gui/win32/CMakeLists.txt
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/vehicle/android
+END
+vehicle_android.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/navit/!svn/ver/2581/trunk/navit/navit/vehicle/android/vehicle_android.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/2849/trunk/navit/navit/vehicle/android/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/navit/!svn/ver/3915/trunk/navit/navit/vehicle/android/CMakeLists.txt
+END

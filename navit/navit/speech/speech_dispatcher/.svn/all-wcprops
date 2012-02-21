@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/speech/speech_dispatcher
+END
+speech_speech_dispatcher.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/navit/!svn/ver/4139/trunk/navit/navit/speech/speech_dispatcher/speech_speech_dispatcher.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/navit/!svn/ver/2347/trunk/navit/navit/speech/speech_dispatcher/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/navit/!svn/ver/3589/trunk/navit/navit/speech/speech_dispatcher/CMakeLists.txt
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/map/garmin
+END
+gentypes.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/1884/trunk/navit/navit/map/garmin/gentypes.c
+END
+garmintypes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/2670/trunk/navit/navit/map/garmin/garmintypes.txt
+END
+gar2navit.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/2298/trunk/navit/navit/map/garmin/gar2navit.h
+END
+garmin.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/2298/trunk/navit/navit/map/garmin/garmin.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/2923/trunk/navit/navit/map/garmin/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/4690/trunk/navit/navit/map/garmin/CMakeLists.txt
+END
+gar2navit.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/1884/trunk/navit/navit/map/garmin/gar2navit.c
+END
+garmin.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/4517/trunk/navit/navit/map/garmin/garmin.c
+END

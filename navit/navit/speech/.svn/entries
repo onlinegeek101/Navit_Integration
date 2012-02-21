@@ -1,0 +1,77 @@
+10
+
+dir
+4944
+https://navit.svn.sourceforge.net/svnroot/navit/trunk/navit/navit/speech
+https://navit.svn.sourceforge.net/svnroot/navit
+
+
+
+2012-02-06T13:48:04.052192Z
+4925
+martin-s
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+ffa7fe5e-494d-0410-b361-a75ebd5db220
+
+android
+dir
+
+espeak
+dir
+
+Makefile.am
+file
+
+
+
+
+2012-02-21T22:22:40.135165Z
+fe93d94c39f7336f075dc3c4f3e879ee
+2010-01-08T10:28:00.878027Z
+2898
+martin-s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+246
+
+cmdline
+dir
+
+dbus
+dir
+
+speech_dispatcher
+dir
+

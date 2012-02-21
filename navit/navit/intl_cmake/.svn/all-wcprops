@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/intl_cmake
+END
+plural-exp.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/plural-exp.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/Makefile.in
+END
+explodename.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/explodename.c
+END
+printf-args.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/printf-args.h
+END
+printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/4361/trunk/navit/navit/intl_cmake/printf.c
+END
+localcharset.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/localcharset.c
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/VERSION
+END
+dcigettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/4361/trunk/navit/navit/intl_cmake/dcigettext.c
+END
+dngettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/dngettext.c
+END
+localealias.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/4361/trunk/navit/navit/intl_cmake/localealias.c
+END
+localcharset.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/localcharset.h
+END
+textdomain.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/textdomain.c
+END
+relocatable.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/relocatable.c
+END
+libgnuintl.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/libgnuintl.h.in
+END
+bindtextdom.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/bindtextdom.c
+END
+relocatable.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/relocatable.h
+END
+ref-del.sin
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/ref-del.sin
+END
+vasnwprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/vasnwprintf.h
+END
+intl-compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/intl-compat.c
+END
+dgettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/dgettext.c
+END
+vasnprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/vasnprintf.c
+END
+dcgettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/dcgettext.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/4002/trunk/navit/navit/intl_cmake/CMakeLists.txt
+END
+plural.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/4166/trunk/navit/navit/intl_cmake/plural.c
+END
+vasnprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/vasnprintf.h
+END
+localename.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/3784/trunk/navit/navit/intl_cmake/localename.c
+END
+loadinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/loadinfo.h
+END
+ngettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/ngettext.c
+END
+locale.alias
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/locale.alias
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/ChangeLog
+END
+wprintf-parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/wprintf-parse.h
+END
+os2compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/os2compat.c
+END
+xsize.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/navit/!svn/ver/4166/trunk/navit/navit/intl_cmake/xsize.h
+END
+finddomain.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/finddomain.c
+END
+dcngettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/dcngettext.c
+END
+gettextP.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/4166/trunk/navit/navit/intl_cmake/gettextP.h
+END
+ref-add.sin
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/ref-add.sin
+END
+osdep.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/osdep.c
+END
+printf-parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/printf-parse.c
+END
+libgnuintl.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/3787/trunk/navit/navit/intl_cmake/libgnuintl.h
+END
+l10nflist.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/4166/trunk/navit/navit/intl_cmake/l10nflist.c
+END
+config.charset
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/config.charset
+END
+os2compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/os2compat.h
+END
+loadmsgcat.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/4361/trunk/navit/navit/intl_cmake/loadmsgcat.c
+END
+printf-parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/printf-parse.h
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/log.c
+END
+gettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/gettext.c
+END
+plural.y
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/plural.y
+END
+gmo.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/gmo.h
+END
+eval-plural.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/eval-plural.h
+END
+plural-exp.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/plural-exp.c
+END
+hash-string.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/4166/trunk/navit/navit/intl_cmake/hash-string.h
+END
+printf-args.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/3742/trunk/navit/navit/intl_cmake/printf-args.c
+END

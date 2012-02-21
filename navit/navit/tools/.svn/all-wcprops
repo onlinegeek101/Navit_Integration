@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/navit/!svn/ver/3176/trunk/navit/navit/tools
+END
+cleanattr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/navit/!svn/ver/2617/trunk/navit/navit/tools/cleanattr.sh
+END
+asc2navit
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/navit/!svn/ver/3176/trunk/navit/navit/tools/asc2navit
+END

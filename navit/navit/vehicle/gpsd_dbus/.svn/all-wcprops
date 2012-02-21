@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/vehicle/gpsd_dbus
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/navit/!svn/ver/2818/trunk/navit/navit/vehicle/gpsd_dbus/Makefile.am
+END
+vehicle_gpsd_dbus.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/navit/!svn/ver/4465/trunk/navit/navit/vehicle/gpsd_dbus/vehicle_gpsd_dbus.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/navit/!svn/ver/3589/trunk/navit/navit/vehicle/gpsd_dbus/CMakeLists.txt
+END

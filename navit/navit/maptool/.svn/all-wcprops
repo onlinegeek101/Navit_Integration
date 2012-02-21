@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/4944/trunk/navit/navit/maptool
+END
+osm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/4924/trunk/navit/navit/maptool/osm.c
+END
+zip.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/4673/trunk/navit/navit/maptool/zip.c
+END
+tempfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/navit/!svn/ver/4421/trunk/navit/navit/maptool/tempfile.c
+END
+fileformat.proto
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/3846/trunk/navit/navit/maptool/fileformat.proto
+END
+buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/navit/!svn/ver/4612/trunk/navit/navit/maptool/buffer.c
+END
+maptool.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/4673/trunk/navit/navit/maptool/maptool.c
+END
+osm_o5m.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/4605/trunk/navit/navit/maptool/osm_o5m.c
+END
+osm_protobuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/4605/trunk/navit/navit/maptool/osm_protobuf.c
+END
+osm_relations.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/4624/trunk/navit/navit/maptool/osm_relations.c
+END
+osm_xml.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/4605/trunk/navit/navit/maptool/osm_xml.c
+END
+maptool.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/4944/trunk/navit/navit/maptool/maptool.h
+END
+itembin_buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/4924/trunk/navit/navit/maptool/itembin_buffer.c
+END
+coastline.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/4755/trunk/navit/navit/maptool/coastline.c
+END
+osm_protobufdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/4421/trunk/navit/navit/maptool/osm_protobufdb.c
+END
+sourcesink.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/4421/trunk/navit/navit/maptool/sourcesink.c
+END
+itembin.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/4755/trunk/navit/navit/maptool/itembin.c
+END
+geom.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/navit/!svn/ver/4924/trunk/navit/navit/maptool/geom.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/4623/trunk/navit/navit/maptool/Makefile.am
+END
+osmformat.proto
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/3846/trunk/navit/navit/maptool/osmformat.proto
+END
+ch.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/4608/trunk/navit/navit/maptool/ch.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/navit/!svn/ver/4673/trunk/navit/navit/maptool/misc.c
+END
+boundaries.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/4924/trunk/navit/navit/maptool/boundaries.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/4623/trunk/navit/navit/maptool/CMakeLists.txt
+END
+osm_psql.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/navit/!svn/ver/4609/trunk/navit/navit/maptool/osm_psql.c
+END
+tile.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/navit/!svn/ver/4612/trunk/navit/navit/maptool/tile.c
+END

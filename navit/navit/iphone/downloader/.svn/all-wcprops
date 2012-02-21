@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/4678/trunk/navit/navit/iphone/downloader
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/4676/trunk/navit/navit/iphone/downloader/main.m
+END
+Downloader-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/navit/!svn/ver/4676/trunk/navit/navit/iphone/downloader/Downloader-Info.plist
+END
+RootViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/navit/!svn/ver/4676/trunk/navit/navit/iphone/downloader/RootViewController.xib
+END
+Downloader_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/navit/!svn/ver/4676/trunk/navit/navit/iphone/downloader/Downloader_Prefix.pch
+END
+LocationsArray.plist
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/navit/!svn/ver/4676/trunk/navit/navit/iphone/downloader/LocationsArray.plist
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/navit/!svn/ver/4676/trunk/navit/navit/iphone/downloader/MainWindow.xib
+END

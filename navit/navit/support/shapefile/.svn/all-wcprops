@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/support/shapefile
+END
+shapefil.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/navit/!svn/ver/4586/trunk/navit/navit/support/shapefile/shapefil.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/navit/!svn/ver/4586/trunk/navit/navit/support/shapefile/Makefile.am
+END
+shptree.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/4586/trunk/navit/navit/support/shapefile/shptree.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/navit/!svn/ver/4662/trunk/navit/navit/support/shapefile/CMakeLists.txt
+END
+shpopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/4586/trunk/navit/navit/support/shapefile/shpopen.c
+END
+dbfopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/4586/trunk/navit/navit/support/shapefile/dbfopen.c
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/4678/trunk/navit/navit/iphone/downloader/Classes
+END
+DownloaderAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/navit/!svn/ver/4676/trunk/navit/navit/iphone/downloader/Classes/DownloaderAppDelegate.h
+END
+DownloaderConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/navit/!svn/ver/4676/trunk/navit/navit/iphone/downloader/Classes/DownloaderConstants.h
+END
+DownloaderDetailViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/navit/!svn/ver/4678/trunk/navit/navit/iphone/downloader/Classes/DownloaderDetailViewController.xib
+END
+DownloaderAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/navit/!svn/ver/4676/trunk/navit/navit/iphone/downloader/Classes/DownloaderAppDelegate.m
+END
+DownloaderDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/navit/!svn/ver/4678/trunk/navit/navit/iphone/downloader/Classes/DownloaderDetailViewController.h
+END
+RootViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/navit/!svn/ver/4676/trunk/navit/navit/iphone/downloader/Classes/RootViewController.h
+END
+DownloaderDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/navit/!svn/ver/4678/trunk/navit/navit/iphone/downloader/Classes/DownloaderDetailViewController.m
+END
+RootViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/navit/!svn/ver/4678/trunk/navit/navit/iphone/downloader/Classes/RootViewController.m
+END

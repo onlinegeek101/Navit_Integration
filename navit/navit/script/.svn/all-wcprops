@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/navit/!svn/ver/4523/trunk/navit/navit/script
+END
+gps_emu2
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/script/gps_emu2
+END
+gps_emu3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/script/gps_emu3
+END
+gps_emu4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/navit/!svn/ver/4523/trunk/navit/navit/script/gps_emu4
+END
+compare_map
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/navit/!svn/ver/3845/trunk/navit/navit/script/compare_map
+END
+gensvg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/1699/trunk/navit/navit/script/gensvg
+END
+dump_types
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/3793/trunk/navit/navit/script/dump_types
+END
+map_index.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/1073/trunk/navit/navit/script/map_index.php
+END
+mapextract.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/script/mapextract.php
+END
+gps_emu
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/script/gps_emu
+END
+download_index.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/1073/trunk/navit/navit/script/download_index.html
+END
+mapExtract.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/script/mapExtract.class.php
+END
+itemgra.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/2687/trunk/navit/navit/script/itemgra.pl
+END
+wiki2def
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/navit/!svn/ver/1194/trunk/navit/navit/script/wiki2def
+END
+geotag
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/script/geotag
+END
+cabify.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/navit/!svn/ver/1720/trunk/navit/navit/script/cabify.sh
+END
+check_itemdef
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/3176/trunk/navit/navit/script/check_itemdef
+END
+get_map
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/script/get_map
+END

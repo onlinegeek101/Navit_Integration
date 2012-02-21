@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/navit/!svn/ver/4891/trunk/navit/navit/osd/core
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/2849/trunk/navit/navit/osd/core/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/3589/trunk/navit/navit/osd/core/CMakeLists.txt
+END
+osd_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/4891/trunk/navit/navit/osd/core/osd_core.c
+END

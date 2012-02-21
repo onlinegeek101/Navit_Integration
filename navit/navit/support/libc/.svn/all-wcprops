@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/support/libc
+END
+unlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/unlink.c
+END
+open.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/open.c
+END
+strcasecmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/4814/trunk/navit/navit/support/libc/strcasecmp.c
+END
+close.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/close.c
+END
+bsearch.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/bsearch.c
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/getopt.h
+END
+stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/stat.c
+END
+read.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/read.c
+END
+fcntl.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/fcntl.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/io.h
+END
+gmtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/gmtime.c
+END
+process.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/process.h
+END
+chsize.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/chsize.c
+END
+mktime.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/mktime.c
+END
+timeutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/timeutil.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/4814/trunk/navit/navit/support/libc/CMakeLists.txt
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/time.c
+END
+math.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/math.h
+END
+timeutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/timeutil.h
+END
+lseek.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/lseek.c
+END
+locale.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/3271/trunk/navit/navit/support/libc/locale.h
+END
+mkdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/mkdir.c
+END
+rename.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/rename.c
+END
+abort.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/abort.c
+END
+localtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/localtime.c
+END
+libc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/libc.c
+END
+unistd.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/unistd.h
+END
+libc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/4485/trunk/navit/navit/support/libc/libc.h
+END
+signal.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/1610/trunk/navit/navit/support/libc/signal.h
+END
+_mingw.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/4822/trunk/navit/navit/support/libc/_mingw.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/2909/trunk/navit/navit/support/libc/Makefile.am
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/4809/trunk/navit/navit/support/libc/errno.h
+END
+write.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/write.c
+END
+libc_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/1610/trunk/navit/navit/support/libc/libc_init.c
+END
+calloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/4813/trunk/navit/navit/support/libc/calloc.c
+END

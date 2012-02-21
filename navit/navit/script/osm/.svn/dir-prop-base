@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 69
+Utils http://svn.openstreetmap.org/applications/utils/perl_lib/Utils
+
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/navit/!svn/ver/4929/trunk/navit/navit/graphics/android
+END
+graphics_android.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/navit/!svn/ver/4929/trunk/navit/navit/graphics/android/graphics_android.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/navit/!svn/ver/2849/trunk/navit/navit/graphics/android/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/navit/!svn/ver/3915/trunk/navit/navit/graphics/android/CMakeLists.txt
+END

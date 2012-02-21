@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/4941/trunk/navit/navit/gui/internal
+END
+gui_internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/4941/trunk/navit/navit/gui/internal/gui_internal.c
+END
+gui_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/4940/trunk/navit/navit/gui/internal/gui_internal.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/4710/trunk/navit/navit/gui/internal/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/3589/trunk/navit/navit/gui/internal/CMakeLists.txt
+END

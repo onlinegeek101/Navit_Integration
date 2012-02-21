@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/support/win32
+END
+ConvertUTF.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/1596/trunk/navit/navit/support/win32/ConvertUTF.c
+END
+ConvertUTF.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/1596/trunk/navit/navit/support/win32/ConvertUTF.h
+END
+win32_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/1494/trunk/navit/navit/support/win32/win32_init.c
+END
+addwinsock.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/3648/trunk/navit/navit/support/win32/addwinsock.c
+END
+serial_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/4026/trunk/navit/navit/support/win32/serial_io.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/3644/trunk/navit/navit/support/win32/Makefile.am
+END
+mmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/1437/trunk/navit/navit/support/win32/mmap.c
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/4167/trunk/navit/navit/support/win32/stdint.h
+END
+addwinsock.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/3649/trunk/navit/navit/support/win32/addwinsock.h
+END
+serial_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/3644/trunk/navit/navit/support/win32/serial_io.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/navit/!svn/ver/3911/trunk/navit/navit/support/win32/CMakeLists.txt
+END

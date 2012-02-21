@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/map/mg
+END
+tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/2665/trunk/navit/navit/map/mg/tree.c
+END
+poly.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/2418/trunk/navit/navit/map/mg/poly.c
+END
+street.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/navit/!svn/ver/3041/trunk/navit/navit/map/mg/street.c
+END
+town.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/2934/trunk/navit/navit/map/mg/town.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/navit/!svn/ver/2849/trunk/navit/navit/map/mg/Makefile.am
+END
+mg.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/navit/!svn/ver/2418/trunk/navit/navit/map/mg/mg.h
+END
+block.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/navit/!svn/ver/2418/trunk/navit/navit/map/mg/block.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/3589/trunk/navit/navit/map/mg/CMakeLists.txt
+END
+map.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/4139/trunk/navit/navit/map/mg/map.c
+END

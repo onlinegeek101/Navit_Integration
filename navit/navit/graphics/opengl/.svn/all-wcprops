@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/navit/!svn/ver/4878/trunk/navit/navit/graphics/opengl
+END
+graphics_opengl.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/navit/!svn/ver/4878/trunk/navit/navit/graphics/opengl/graphics_opengl.c
+END
+window.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/4461/trunk/navit/navit/graphics/opengl/window.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/2347/trunk/navit/navit/graphics/opengl/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/navit/!svn/ver/3589/trunk/navit/navit/graphics/opengl/CMakeLists.txt
+END

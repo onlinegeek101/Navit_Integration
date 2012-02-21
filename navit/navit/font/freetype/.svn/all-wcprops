@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/font/freetype
+END
+font_freetype.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/navit/!svn/ver/4421/trunk/navit/navit/font/freetype/font_freetype.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/4113/trunk/navit/navit/font/freetype/Makefile.am
+END
+font_freetype.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/navit/!svn/ver/4421/trunk/navit/navit/font/freetype/font_freetype.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/navit/!svn/ver/4745/trunk/navit/navit/font/freetype/CMakeLists.txt
+END

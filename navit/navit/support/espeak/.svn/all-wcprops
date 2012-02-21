@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/support/espeak
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/2606/trunk/navit/navit/support/espeak/StdAfx.h
+END
+synthdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/2608/trunk/navit/navit/support/espeak/synthdata.c
+END
+speak.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/2608/trunk/navit/navit/support/espeak/speak.c
+END
+dictionary.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/3729/trunk/navit/navit/support/espeak/dictionary.c
+END
+espeak.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/3088/trunk/navit/navit/support/espeak/espeak.c
+END
+wave_pulse.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/2607/trunk/navit/navit/support/espeak/wave_pulse.c
+END
+portaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/2606/trunk/navit/navit/support/espeak/portaudio.h
+END
+intonation.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/2607/trunk/navit/navit/support/espeak/intonation.c
+END
+portaudio18.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/navit/!svn/ver/2606/trunk/navit/navit/support/espeak/portaudio18.h
+END
+sintab.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/2606/trunk/navit/navit/support/espeak/sintab.h
+END
+portaudio19.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/navit/!svn/ver/2606/trunk/navit/navit/support/espeak/portaudio19.h
+END
+speak_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/2684/trunk/navit/navit/support/espeak/speak_init.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/2607/trunk/navit/navit/support/espeak/debug.c
+END
+voices.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/2609/trunk/navit/navit/support/espeak/voices.c
+END
+speak_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/3088/trunk/navit/navit/support/espeak/speak_lib.c
+END
+wave_sada.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/2607/trunk/navit/navit/support/espeak/wave_sada.c
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/2606/trunk/navit/navit/support/espeak/debug.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/navit/!svn/ver/4541/trunk/navit/navit/support/espeak/CMakeLists.txt
+END
+compiledict.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/navit/!svn/ver/2609/trunk/navit/navit/support/espeak/compiledict.c
+END
+wavegen.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/2608/trunk/navit/navit/support/espeak/wavegen.c
+END
+translate.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/2608/trunk/navit/navit/support/espeak/translate.c
+END
+speak_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/3088/trunk/navit/navit/support/espeak/speak_lib.h
+END
+phoneme.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/2606/trunk/navit/navit/support/espeak/phoneme.h
+END
+synth_mbrola.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/navit/!svn/ver/2607/trunk/navit/navit/support/espeak/synth_mbrola.c
+END
+translate.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/2608/trunk/navit/navit/support/espeak/translate.h
+END
+wave.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/2607/trunk/navit/navit/support/espeak/wave.c
+END
+synthesize.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/2608/trunk/navit/navit/support/espeak/synthesize.c
+END
+espeak_command.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/navit/!svn/ver/2607/trunk/navit/navit/support/espeak/espeak_command.c
+END
+wave.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/3731/trunk/navit/navit/support/espeak/wave.h
+END
+readclause.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/2608/trunk/navit/navit/support/espeak/readclause.c
+END
+voice.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/2606/trunk/navit/navit/support/espeak/voice.h
+END
+synthesize.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/2606/trunk/navit/navit/support/espeak/synthesize.h
+END
+numbers.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/2607/trunk/navit/navit/support/espeak/numbers.c
+END
+espeak_command.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/navit/!svn/ver/3088/trunk/navit/navit/support/espeak/espeak_command.h
+END
+tr_languages.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/navit/!svn/ver/3731/trunk/navit/navit/support/espeak/tr_languages.c
+END
+speech.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/3088/trunk/navit/navit/support/espeak/speech.h
+END
+klatt.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/2608/trunk/navit/navit/support/espeak/klatt.c
+END
+setlengths.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/2608/trunk/navit/navit/support/espeak/setlengths.c
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/2607/trunk/navit/navit/support/espeak/event.c
+END
+fifo.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/2607/trunk/navit/navit/support/espeak/fifo.c
+END
+klatt.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/2606/trunk/navit/navit/support/espeak/klatt.h
+END
+event.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/2606/trunk/navit/navit/support/espeak/event.h
+END
+phonemelist.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/navit/!svn/ver/3731/trunk/navit/navit/support/espeak/phonemelist.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/2849/trunk/navit/navit/support/espeak/Makefile.am
+END
+fifo.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/2606/trunk/navit/navit/support/espeak/fifo.h
+END
+mbrolib.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/2606/trunk/navit/navit/support/espeak/mbrolib.h
+END

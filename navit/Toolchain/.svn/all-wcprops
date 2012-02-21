@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/navit/!svn/ver/4808/trunk/navit/Toolchain
+END
+xcode-iphone.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/4748/trunk/navit/Toolchain/xcode-iphone.cmake
+END
+mingw32.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/4532/trunk/navit/Toolchain/mingw32.cmake
+END
+xcode-iphone-sim.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/4748/trunk/navit/Toolchain/xcode-iphone-sim.cmake
+END
+arm-apple-darwin9.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/4722/trunk/navit/Toolchain/arm-apple-darwin9.cmake
+END
+i686-android.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/4806/trunk/navit/Toolchain/i686-android.cmake
+END
+arm-mingw32ce.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/4760/trunk/navit/Toolchain/arm-mingw32ce.cmake
+END
+arm-eabi.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/navit/!svn/ver/4808/trunk/navit/Toolchain/arm-eabi.cmake
+END

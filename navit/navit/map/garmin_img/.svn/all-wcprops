@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/navit/!svn/ver/2347/trunk/navit/navit/map/garmin_img
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/2347/trunk/navit/navit/map/garmin_img/Makefile.am
+END
+garmin_img.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/1884/trunk/navit/navit/map/garmin_img/garmin_img.c
+END

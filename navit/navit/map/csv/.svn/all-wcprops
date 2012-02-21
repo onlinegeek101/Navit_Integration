@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/4895/trunk/navit/navit/map/csv
+END
+quadtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/navit/!svn/ver/4416/trunk/navit/navit/map/csv/quadtree.h
+END
+csv.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/4575/trunk/navit/navit/map/csv/csv.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/3868/trunk/navit/navit/map/csv/Makefile.am
+END
+quadtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/navit/!svn/ver/4777/trunk/navit/navit/map/csv/quadtree.c
+END
+csv.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/4895/trunk/navit/navit/map/csv/csv.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/3895/trunk/navit/navit/map/csv/CMakeLists.txt
+END

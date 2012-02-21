@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/4875/trunk/navit/navit/gui/gtk
+END
+gui_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/1922/trunk/navit/navit/gui/gtk/gui_gtk.h
+END
+gui_gtk_window.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/4873/trunk/navit/navit/gui/gtk/gui_gtk_window.c
+END
+datawindow.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/2321/trunk/navit/navit/gui/gtk/datawindow.c
+END
+destination.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/3723/trunk/navit/navit/gui/gtk/destination.c
+END
+gui_gtk_statusbar.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/3410/trunk/navit/navit/gui/gtk/gui_gtk_statusbar.c
+END
+gui_gtk_action.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/4875/trunk/navit/navit/gui/gtk/gui_gtk_action.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/2347/trunk/navit/navit/gui/gtk/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/3589/trunk/navit/navit/gui/gtk/CMakeLists.txt
+END

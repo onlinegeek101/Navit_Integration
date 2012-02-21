@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/map/filter
+END
+filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/4361/trunk/navit/navit/map/filter/filter.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/2849/trunk/navit/navit/map/filter/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/3589/trunk/navit/navit/map/filter/CMakeLists.txt
+END

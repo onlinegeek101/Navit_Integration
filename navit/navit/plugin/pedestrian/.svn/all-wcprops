@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/plugin/pedestrian
+END
+pedestrian.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/navit/!svn/ver/4404/trunk/navit/navit/plugin/pedestrian/pedestrian.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/navit/!svn/ver/2964/trunk/navit/navit/plugin/pedestrian/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/navit/!svn/ver/4405/trunk/navit/navit/plugin/pedestrian/CMakeLists.txt
+END

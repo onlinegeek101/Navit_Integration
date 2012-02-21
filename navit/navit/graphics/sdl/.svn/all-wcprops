@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/graphics/sdl
+END
+raster.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/4133/trunk/navit/navit/graphics/sdl/raster.c
+END
+graphics_sdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/4717/trunk/navit/navit/graphics/sdl/graphics_sdl.c
+END
+raster.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/1197/trunk/navit/navit/graphics/sdl/raster.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/4354/trunk/navit/navit/graphics/sdl/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/3589/trunk/navit/navit/graphics/sdl/CMakeLists.txt
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/support/ezxml
+END
+ezxml.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/4193/trunk/navit/navit/support/ezxml/ezxml.c
+END
+ezxml_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/1483/trunk/navit/navit/support/ezxml/ezxml_init.c
+END
+ezxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/4193/trunk/navit/navit/support/ezxml/ezxml.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/1483/trunk/navit/navit/support/ezxml/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/navit/!svn/ver/3911/trunk/navit/navit/support/ezxml/CMakeLists.txt
+END

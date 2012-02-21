@@ -1,0 +1,92 @@
+10
+
+dir
+4944
+https://navit.svn.sourceforge.net/svnroot/navit/trunk/navit/navit/support
+https://navit.svn.sourceforge.net/svnroot/navit
+
+
+
+2011-12-04T10:31:19.731015Z
+4850
+martin-s
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+ffa7fe5e-494d-0410-b361-a75ebd5db220
+
+ezxml
+dir
+
+shapefile
+dir
+
+zlib
+dir
+
+win32
+dir
+
+espeak
+dir
+
+wordexp
+dir
+
+libc
+dir
+
+Makefile.am
+file
+
+
+
+
+2012-02-21T22:22:30.851119Z
+36d9f515afef783343bcb182310c2b47
+2011-07-05T20:06:29.378038Z
+4586
+woglinde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+496
+
+xgetopt
+dir
+
+libpng
+dir
+
+glib
+dir
+

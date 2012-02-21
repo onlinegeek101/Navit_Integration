@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/4924/trunk/navit/navit/gui/qml/skins/navit
+END
+PageRoute.qml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/navit/!svn/ver/4924/trunk/navit/navit/gui/qml/skins/navit/PageRoute.qml
+END
+PageNavigate.qml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/navit/!svn/ver/4924/trunk/navit/navit/gui/qml/skins/navit/PageNavigate.qml
+END
+PageSettings.qml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/navit/!svn/ver/3475/trunk/navit/navit/gui/qml/skins/navit/PageSettings.qml
+END
+PageSettingsVehicle.qml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/navit/!svn/ver/3537/trunk/navit/navit/gui/qml/skins/navit/PageSettingsVehicle.qml
+END
+PageBookmarksAdd.qml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/navit/!svn/ver/3475/trunk/navit/navit/gui/qml/skins/navit/PageBookmarksAdd.qml
+END
+knob.svg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/navit/!svn/ver/3000/trunk/navit/navit/gui/qml/skins/navit/knob.svg
+END
+command.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/navit/!svn/ver/4924/trunk/navit/navit/gui/qml/skins/navit/command.js
+END
+PageSearch.qml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/navit/!svn/ver/3475/trunk/navit/navit/gui/qml/skins/navit/PageSearch.qml
+END
+PagePointInfo.qml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/navit/!svn/ver/3475/trunk/navit/navit/gui/qml/skins/navit/PagePointInfo.qml
+END
+Cellar.qml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/navit/!svn/ver/3537/trunk/navit/navit/gui/qml/skins/navit/Cellar.qml
+END
+PageSearchSelector.qml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/navit/!svn/ver/3475/trunk/navit/navit/gui/qml/skins/navit/PageSearchSelector.qml
+END
+ToggleSwitch.qml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/navit/!svn/ver/3537/trunk/navit/navit/gui/qml/skins/navit/ToggleSwitch.qml
+END
+PageAbout.qml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/navit/!svn/ver/3475/trunk/navit/navit/gui/qml/skins/navit/PageAbout.qml
+END
+PageSettingsRules.qml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/navit/!svn/ver/3475/trunk/navit/navit/gui/qml/skins/navit/PageSettingsRules.qml
+END
+ListSelector.qml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/navit/!svn/ver/3537/trunk/navit/navit/gui/qml/skins/navit/ListSelector.qml
+END
+PageSettingsLocale.qml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/navit/!svn/ver/3537/trunk/navit/navit/gui/qml/skins/navit/PageSettingsLocale.qml
+END
+ToggleButton.qml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/navit/!svn/ver/3326/trunk/navit/navit/gui/qml/skins/navit/ToggleButton.qml
+END
+PageSettingsTools.qml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/navit/!svn/ver/3475/trunk/navit/navit/gui/qml/skins/navit/PageSettingsTools.qml
+END
+pagenavigation.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/navit/!svn/ver/3475/trunk/navit/navit/gui/qml/skins/navit/pagenavigation.js
+END
+CommonHighlight.qml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/navit/!svn/ver/3326/trunk/navit/navit/gui/qml/skins/navit/CommonHighlight.qml
+END
+PageMain.qml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/navit/!svn/ver/3554/trunk/navit/navit/gui/qml/skins/navit/PageMain.qml
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/navit/!svn/ver/3475/trunk/navit/navit/gui/qml/skins/navit/Makefile.am
+END
+Slider.qml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/navit/!svn/ver/3326/trunk/navit/navit/gui/qml/skins/navit/Slider.qml
+END
+PageSettingsDisplay.qml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/navit/!svn/ver/3475/trunk/navit/navit/gui/qml/skins/navit/PageSettingsDisplay.qml
+END
+PagePoi.qml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/navit/!svn/ver/3475/trunk/navit/navit/gui/qml/skins/navit/PagePoi.qml
+END
+ButtonIcon.qml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/navit/!svn/ver/3537/trunk/navit/navit/gui/qml/skins/navit/ButtonIcon.qml
+END
+main.qml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/navit/!svn/ver/3475/trunk/navit/navit/gui/qml/skins/navit/main.qml
+END
+PageBookmarks.qml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/navit/!svn/ver/3475/trunk/navit/navit/gui/qml/skins/navit/PageBookmarks.qml
+END
+background.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/navit/!svn/ver/3000/trunk/navit/navit/gui/qml/skins/navit/background.svg
+END

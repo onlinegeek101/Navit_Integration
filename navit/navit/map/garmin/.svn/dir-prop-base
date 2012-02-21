@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 87
+Makefile.in
+.libs
+.deps
+Makefile
+gentypes
+g2nbuiltin.h
+
+CMakeFiles
+cmake_install.cmake
+
+END

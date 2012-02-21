@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/navit/!svn/ver/4800/trunk/navit/navit/xslt
+END
+openmoko.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/navit/!svn/ver/2765/trunk/navit/navit/xslt/openmoko.xslt
+END
+binding_dbus.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/2714/trunk/navit/navit/xslt/binding_dbus.xslt
+END
+android_ldpi.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/4205/trunk/navit/navit/xslt/android_ldpi.xslt
+END
+gui_gtk.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/4550/trunk/navit/navit/xslt/gui_gtk.xslt
+END
+android_mdpi.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/4205/trunk/navit/navit/xslt/android_mdpi.xslt
+END
+pedestrian_button.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/2962/trunk/navit/navit/xslt/pedestrian_button.xslt
+END
+windows.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/2765/trunk/navit/navit/xslt/windows.xslt
+END
+map_secondary_sdcard_navitmap_bin.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/navit/!svn/ver/4217/trunk/navit/navit/xslt/map_secondary_sdcard_navitmap_bin.xslt
+END
+pedestrian.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/3630/trunk/navit/navit/xslt/pedestrian.xslt
+END
+osd_enable_zoom.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/2513/trunk/navit/navit/xslt/osd_enable_zoom.xslt
+END
+speech_espeak.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/2704/trunk/navit/navit/xslt/speech_espeak.xslt
+END
+vehicle_null.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/2714/trunk/navit/navit/xslt/vehicle_null.xslt
+END
+null.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/navit/!svn/ver/4723/trunk/navit/navit/xslt/null.xslt
+END
+navit_drag_bitmap.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/2513/trunk/navit/navit/xslt/navit_drag_bitmap.xslt
+END
+pedestrian_plugin.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/2962/trunk/navit/navit/xslt/pedestrian_plugin.xslt
+END
+android_all_densities.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/navit/!svn/ver/4221/trunk/navit/navit/xslt/android_all_densities.xslt
+END
+samplemap.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/2555/trunk/navit/navit/xslt/samplemap.xslt
+END
+osd_android_minimum.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/navit/!svn/ver/4245/trunk/navit/navit/xslt/osd_android_minimum.xslt
+END
+android.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/4779/trunk/navit/navit/xslt/android.xslt
+END
+osd_minimum.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/4758/trunk/navit/navit/xslt/osd_minimum.xslt
+END
+iphone.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/navit/!svn/ver/4778/trunk/navit/navit/xslt/iphone.xslt
+END
+plugin_menu.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/2962/trunk/navit/navit/xslt/plugin_menu.xslt
+END
+map_sdcard_navitmap_bin.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/navit/!svn/ver/4344/trunk/navit/navit/xslt/map_sdcard_navitmap_bin.xslt
+END
+cursor_scale.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/4344/trunk/navit/navit/xslt/cursor_scale.xslt
+END
+android_hdpi.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/4205/trunk/navit/navit/xslt/android_hdpi.xslt
+END
+default_plugins.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/4800/trunk/navit/navit/xslt/default_plugins.xslt
+END

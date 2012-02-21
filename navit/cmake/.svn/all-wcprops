@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/navit/!svn/ver/4796/trunk/navit/cmake
+END
+Qt4ConfigDependentSettings.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/navit/!svn/ver/4620/trunk/navit/cmake/Qt4ConfigDependentSettings.cmake
+END
+navit_download.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/3933/trunk/navit/cmake/navit_download.cmake
+END
+FindGTK2.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/navit/!svn/ver/4642/trunk/navit/cmake/FindGTK2.cmake
+END
+FindQt4.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/4620/trunk/navit/cmake/FindQt4.cmake
+END
+navit_xml_parser_glade.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/navit/!svn/ver/3745/trunk/navit/cmake/navit_xml_parser_glade.cmake
+END
+navit_writemapxml.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/3939/trunk/navit/cmake/navit_writemapxml.cmake
+END
+replace.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/4159/trunk/navit/cmake/replace.cmake
+END
+LibFindMacros.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/3712/trunk/navit/cmake/LibFindMacros.cmake
+END
+navit_xml_parser.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/3589/trunk/navit/cmake/navit_xml_parser.cmake
+END
+Qt4Macros.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/navit/!svn/ver/4620/trunk/navit/cmake/Qt4Macros.cmake
+END
+FindGlib.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/navit/!svn/ver/4535/trunk/navit/cmake/FindGlib.cmake
+END
+navit_po_version.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/3750/trunk/navit/cmake/navit_po_version.cmake
+END
+navit_macros.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/navit/!svn/ver/4796/trunk/navit/cmake/navit_macros.cmake
+END
+UseQt4.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/4620/trunk/navit/cmake/UseQt4.cmake
+END
+version.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/4732/trunk/navit/cmake/version.cmake
+END
+test.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/navit/!svn/ver/4590/trunk/navit/cmake/test.xslt
+END
+copy_files.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/navit/!svn/ver/4350/trunk/navit/cmake/copy_files.cmake
+END
+FindDBusGLib.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/navit/!svn/ver/3847/trunk/navit/cmake/FindDBusGLib.cmake
+END
+FindGmodule.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/3889/trunk/navit/cmake/FindGmodule.cmake
+END
+FindDBus.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/navit/!svn/ver/3847/trunk/navit/cmake/FindDBus.cmake
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/navit/!svn/ver/4590/trunk/navit/cmake/test.xml
+END

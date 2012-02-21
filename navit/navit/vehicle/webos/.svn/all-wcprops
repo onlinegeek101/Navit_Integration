@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/4767/trunk/navit/navit/vehicle/webos
+END
+vehicle_webos.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/navit/!svn/ver/4767/trunk/navit/navit/vehicle/webos/vehicle_webos.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/4282/trunk/navit/navit/vehicle/webos/Makefile.am
+END

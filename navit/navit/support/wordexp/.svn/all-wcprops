@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/support/wordexp
+END
+glob.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/4797/trunk/navit/navit/support/wordexp/glob.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/2428/trunk/navit/navit/support/wordexp/Makefile.am
+END
+glob.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/4797/trunk/navit/navit/support/wordexp/glob.h
+END
+wordexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/4797/trunk/navit/navit/support/wordexp/wordexp.c
+END
+wordexp_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/navit/!svn/ver/1494/trunk/navit/navit/support/wordexp/wordexp_init.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/navit/!svn/ver/3589/trunk/navit/navit/support/wordexp/CMakeLists.txt
+END
+wordexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/1437/trunk/navit/navit/support/wordexp/wordexp.h
+END

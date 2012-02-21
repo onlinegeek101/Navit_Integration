@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/binding/dbus
+END
+org.navit_project.navit.service.in
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/navit/!svn/ver/2674/trunk/navit/navit/binding/dbus/org.navit_project.navit.service.in
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/2719/trunk/navit/navit/binding/dbus/test.py
+END
+binding_dbus.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/4670/trunk/navit/navit/binding/dbus/binding_dbus.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/2683/trunk/navit/navit/binding/dbus/Makefile.am
+END
+navit.introspect
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/navit/!svn/ver/1462/trunk/navit/navit/binding/dbus/navit.introspect
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/4561/trunk/navit/navit/binding/dbus/CMakeLists.txt
+END
+eval.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/2794/trunk/navit/navit/binding/dbus/eval.py
+END

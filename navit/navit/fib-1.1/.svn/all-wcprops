@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/fib-1.1
+END
+fibtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/3382/trunk/navit/navit/fib-1.1/fibtest.c
+END
+fib.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/3968/trunk/navit/navit/fib-1.1/fib.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/fib-1.1/configure
+END
+fib.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/fib-1.1/fib.h
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/fib-1.1/configure.in
+END
+fibpriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/3968/trunk/navit/navit/fib-1.1/fibpriv.h
+END
+fibtest2.out
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/fib-1.1/fibtest2.out
+END
+fh_makeheap.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/fib-1.1/fh_makeheap.3
+END
+fh_extractmin.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/fib-1.1/fh_extractmin.3
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/fib-1.1/README
+END
+tt.out
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/fib-1.1/tt.out
+END
+fh_makekeyheap.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/fib-1.1/fh_makekeyheap.3
+END
+fibtest2.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/navit/!svn/ver/3382/trunk/navit/navit/fib-1.1/fibtest2.c
+END
+fibtest.out
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/fib-1.1/fibtest.out
+END
+tt.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/3382/trunk/navit/navit/fib-1.1/tt.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/fib-1.1/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/3911/trunk/navit/navit/fib-1.1/CMakeLists.txt
+END
+use.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/3382/trunk/navit/navit/fib-1.1/use.c
+END

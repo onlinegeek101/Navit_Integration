@@ -1,0 +1,27 @@
+K 10
+svn:ignore
+V 260
+navit
+navit.xml
+osm2navit
+bookmark.txt
+destination.txt
+navit.xml.local
+center.txt
+navit_config.h
+navit_shipped.glade
+navit_shipped.c
+version.h.tmp
+version.h
+Makefile.in
+.deps
+.libs
+Makefile
+builtin.c
+support-builtin.c
+navit.exe
+
+CMakeFiles
+cmake_install.cmake
+
+END

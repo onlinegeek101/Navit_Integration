@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/1847/trunk/navit/navit/tools/gpx2navit_txt/src
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/tools/gpx2navit_txt/src/utils.c
+END
+setmeta.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/tools/gpx2navit_txt/src/setmeta.c
+END
+setpath.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/tools/gpx2navit_txt/src/setpath.c
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/tools/gpx2navit_txt/src/config.h.in
+END
+emess.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/tools/gpx2navit_txt/src/emess.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/tools/gpx2navit_txt/src/main.c
+END
+geod_for.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/tools/gpx2navit_txt/src/geod_for.c
+END
+setwpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/tools/gpx2navit_txt/src/setwpt.c
+END
+gpx2navit_txt.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/tools/gpx2navit_txt/src/gpx2navit_txt.h
+END
+geodesic.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/tools/gpx2navit_txt/src/geodesic.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/tools/gpx2navit_txt/src/Makefile.am
+END
+geod_set.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/tools/gpx2navit_txt/src/geod_set.c
+END
+errorcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/tools/gpx2navit_txt/src/errorcode.h
+END
+geod_inv.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/tools/gpx2navit_txt/src/geod_inv.c
+END
+elementControl.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/tools/gpx2navit_txt/src/elementControl.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/tools/gpx2navit_txt/src/misc.c
+END
+parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/tools/gpx2navit_txt/src/parser.c
+END

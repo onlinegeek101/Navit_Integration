@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/navit/!svn/ver/4815/trunk/navit/navit/support/libc/sys
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/4815/trunk/navit/navit/support/libc/sys/stat.h
+END
+time.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/4815/trunk/navit/navit/support/libc/sys/time.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/4815/trunk/navit/navit/support/libc/sys/types.h
+END

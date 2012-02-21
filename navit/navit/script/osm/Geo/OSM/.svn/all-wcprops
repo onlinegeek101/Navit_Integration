@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/navit/!svn/ver/2534/trunk/navit/navit/script/osm/Geo/OSM
+END
+MapFeatures.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/navit/!svn/ver/2534/trunk/navit/navit/script/osm/Geo/OSM/MapFeatures.pm
+END
+OsmXML.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/navit/!svn/ver/2534/trunk/navit/navit/script/osm/Geo/OSM/OsmXML.pm
+END
+APIClientV4.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/navit/!svn/ver/2534/trunk/navit/navit/script/osm/Geo/OSM/APIClientV4.pm
+END
+Planet.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/navit/!svn/ver/2534/trunk/navit/navit/script/osm/Geo/OSM/Planet.pm
+END
+APIClientV5.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/navit/!svn/ver/2534/trunk/navit/navit/script/osm/Geo/OSM/APIClientV5.pm
+END
+APIClientV6.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/navit/!svn/ver/2534/trunk/navit/navit/script/osm/Geo/OSM/APIClientV6.pm
+END
+Upload.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/navit/!svn/ver/2534/trunk/navit/navit/script/osm/Geo/OSM/Upload.pm
+END
+Tracks2OSM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/navit/!svn/ver/2534/trunk/navit/navit/script/osm/Geo/OSM/Tracks2OSM.pm
+END
+OsmReaderV3.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/navit/!svn/ver/2534/trunk/navit/navit/script/osm/Geo/OSM/OsmReaderV3.pm
+END
+Write.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/2534/trunk/navit/navit/script/osm/Geo/OSM/Write.pm
+END
+OsmReaderV5.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/navit/!svn/ver/2534/trunk/navit/navit/script/osm/Geo/OSM/OsmReaderV5.pm
+END
+OsmReaderV6.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/navit/!svn/ver/2534/trunk/navit/navit/script/osm/Geo/OSM/OsmReaderV6.pm
+END
+EntitiesV3.pm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/navit/!svn/ver/2534/trunk/navit/navit/script/osm/Geo/OSM/EntitiesV3.pm
+END
+SegmentList.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/navit/!svn/ver/2534/trunk/navit/navit/script/osm/Geo/OSM/SegmentList.pm
+END
+EntitiesV5.pm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/navit/!svn/ver/2534/trunk/navit/navit/script/osm/Geo/OSM/EntitiesV5.pm
+END
+OsmChangeReaderV3.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/navit/!svn/ver/2534/trunk/navit/navit/script/osm/Geo/OSM/OsmChangeReaderV3.pm
+END
+EntitiesV6.pm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/navit/!svn/ver/2534/trunk/navit/navit/script/osm/Geo/OSM/EntitiesV6.pm
+END
+OsmChangeReaderV5.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/navit/!svn/ver/2534/trunk/navit/navit/script/osm/Geo/OSM/OsmChangeReaderV5.pm
+END
+OsmChangeReaderV6.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/navit/!svn/ver/2534/trunk/navit/navit/script/osm/Geo/OSM/OsmChangeReaderV6.pm
+END

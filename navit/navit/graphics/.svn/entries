@@ -1,0 +1,126 @@
+10
+
+dir
+4944
+https://navit.svn.sourceforge.net/svnroot/navit/trunk/navit/navit/graphics
+https://navit.svn.sourceforge.net/svnroot/navit
+
+
+
+2012-02-06T22:03:13.630447Z
+4929
+martin-s
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+ffa7fe5e-494d-0410-b361-a75ebd5db220
+
+android
+dir
+
+sdl
+dir
+
+win32
+dir
+
+cocoa
+dir
+
+opengl
+dir
+
+gtk_gl_ext
+dir
+
+qt_qpainter
+dir
+
+gtk_drawing_area
+dir
+
+Makefile.am
+file
+
+
+
+
+2012-02-21T22:22:12.191027Z
+deaa163f9323791d54bfc4e593eec8b0
+2010-10-05T11:47:36.928633Z
+3604
+woglinde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+365
+
+gd
+dir
+
+null
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2012-02-21T22:22:12.191027Z
+4e8b10506425e7b784cc5895102f2308
+2010-10-02T19:58:55.487106Z
+3589
+rikky
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+310
+

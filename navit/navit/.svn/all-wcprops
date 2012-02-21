@@ -1,0 +1,809 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/navit/!svn/ver/4944/trunk/navit/navit
+END
+callback.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/navit/!svn/ver/1926/trunk/navit/navit/callback.h
+END
+country.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/navit/!svn/ver/4742/trunk/navit/navit/country.c
+END
+track.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/4919/trunk/navit/navit/track.c
+END
+country.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/country.h
+END
+track.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/3906/trunk/navit/navit/track.h
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/4920/trunk/navit/navit/debug.c
+END
+start_apple.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/4762/trunk/navit/navit/start_apple.m
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/4921/trunk/navit/navit/debug.h
+END
+menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/navit/!svn/ver/1125/trunk/navit/navit/menu.c
+END
+speech.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/navit/!svn/ver/3058/trunk/navit/navit/speech.c
+END
+zipfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/navit/!svn/ver/4917/trunk/navit/navit/zipfile.h
+END
+menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/menu.h
+END
+transform.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/navit/!svn/ver/4158/trunk/navit/navit/transform.c
+END
+map_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/map_data.h
+END
+speech.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/navit/!svn/ver/4141/trunk/navit/navit/speech.h
+END
+layout.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/navit/!svn/ver/4342/trunk/navit/navit/layout.c
+END
+transform.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/navit/!svn/ver/3663/trunk/navit/navit/transform.h
+END
+plugin_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/3824/trunk/navit/navit/plugin_def.h
+END
+layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/navit/!svn/ver/4342/trunk/navit/navit/layout.h
+END
+color.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/4036/trunk/navit/navit/color.h
+END
+gui.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/navit/!svn/ver/4856/trunk/navit/navit/gui.c
+END
+osd.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/navit/!svn/ver/4923/trunk/navit/navit/osd.c
+END
+destination.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/destination.h
+END
+gui.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/navit/!svn/ver/3007/trunk/navit/navit/gui.h
+END
+osd.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/navit/!svn/ver/4768/trunk/navit/navit/osd.h
+END
+profile.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/navit/!svn/ver/4108/trunk/navit/navit/profile.c
+END
+navit_nls.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/navit/!svn/ver/3786/trunk/navit/navit/navit_nls.h
+END
+profile.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/navit/!svn/ver/4012/trunk/navit/navit/profile.h
+END
+coord.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/4847/trunk/navit/navit/coord.c
+END
+roadprofile.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/3583/trunk/navit/navit/roadprofile.c
+END
+routech.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/navit/!svn/ver/4099/trunk/navit/navit/routech.c
+END
+navit.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/navit/!svn/ver/4684/trunk/navit/navit/navit.dtd
+END
+roadprofile.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/3583/trunk/navit/navit/roadprofile.h
+END
+navit_shipped.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/4936/trunk/navit/navit/navit_shipped.xml
+END
+coord.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/2987/trunk/navit/navit/coord.h
+END
+draw_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/draw_info.h
+END
+map-share.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/map-share.h
+END
+bookmarks.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/navit/!svn/ver/4917/trunk/navit/navit/bookmarks.c
+END
+mapset.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/navit/!svn/ver/4370/trunk/navit/navit/mapset.c
+END
+bookmarks.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/navit/!svn/ver/4847/trunk/navit/navit/bookmarks.h
+END
+plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/navit/!svn/ver/4517/trunk/navit/navit/plugin.c
+END
+mapset.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/navit/!svn/ver/4370/trunk/navit/navit/mapset.h
+END
+data_window.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/data_window.c
+END
+vehicleprofile.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/navit/!svn/ver/4361/trunk/navit/navit/vehicleprofile.c
+END
+plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/navit/!svn/ver/3966/trunk/navit/navit/plugin.h
+END
+config_.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/navit/!svn/ver/4926/trunk/navit/navit/config_.c
+END
+data_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/data_window.h
+END
+vehicleprofile.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/navit/!svn/ver/3465/trunk/navit/navit/vehicleprofile.h
+END
+config_.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/navit/!svn/ver/4712/trunk/navit/navit/config_.h
+END
+builtin.c.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/3736/trunk/navit/navit/builtin.c.in
+END
+gtkext.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/gtkext.h
+END
+map.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/navit/!svn/ver/4504/trunk/navit/navit/map.c
+END
+event_glib.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/3093/trunk/navit/navit/event_glib.c
+END
+vehicle.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/navit/!svn/ver/4933/trunk/navit/navit/vehicle.c
+END
+maptype.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/navit/!svn/ver/1785/trunk/navit/navit/maptype.c
+END
+map.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/navit/!svn/ver/4428/trunk/navit/navit/map.h
+END
+event_glib.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/1365/trunk/navit/navit/event_glib.h
+END
+vehicle.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/navit/!svn/ver/4942/trunk/navit/navit/vehicle.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/navit/!svn/ver/4546/trunk/navit/navit/main.c
+END
+maptype.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/navit/!svn/ver/1872/trunk/navit/navit/maptype.h
+END
+xmlconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/navit/!svn/ver/4926/trunk/navit/navit/xmlconfig.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/navit/!svn/ver/4894/trunk/navit/navit/Makefile.am
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/navit/!svn/ver/3498/trunk/navit/navit/main.h
+END
+xmlconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/navit/!svn/ver/4926/trunk/navit/navit/xmlconfig.h
+END
+attr_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/navit/!svn/ver/4927/trunk/navit/navit/attr_def.h
+END
+start.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/2640/trunk/navit/navit/start.c
+END
+atom.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/navit/!svn/ver/2644/trunk/navit/navit/atom.c
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/Doxyfile
+END
+compass.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/compass.c
+END
+atom.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/navit/!svn/ver/3294/trunk/navit/navit/atom.h
+END
+compass.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/compass.h
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/navit/!svn/ver/4747/trunk/navit/navit/util.c
+END
+keys.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/navit/!svn/ver/3800/trunk/navit/navit/keys.h
+END
+android.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/navit/!svn/ver/4929/trunk/navit/navit/android.c
+END
+item_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/navit/!svn/ver/4681/trunk/navit/navit/item_def.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/navit/!svn/ver/4458/trunk/navit/navit/util.h
+END
+android.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/navit/!svn/ver/4766/trunk/navit/navit/android.h
+END
+route.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/4740/trunk/navit/navit/route.c
+END
+point.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/point.h
+END
+param.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/param.c
+END
+start_real.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/4915/trunk/navit/navit/start_real.c
+END
+browserplugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/navit/!svn/ver/3809/trunk/navit/navit/browserplugin.c
+END
+route.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/3555/trunk/navit/navit/route.h
+END
+param.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/param.h
+END
+start_real.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/2640/trunk/navit/navit/start_real.h
+END
+attr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/navit/!svn/ver/4926/trunk/navit/navit/attr.c
+END
+projection.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/4847/trunk/navit/navit/projection.c
+END
+data.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/navit/!svn/ver/2418/trunk/navit/navit/data.h
+END
+obj_filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/4938/trunk/navit/navit/obj_filter.c
+END
+attr.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/navit/!svn/ver/4667/trunk/navit/navit/attr.h
+END
+data_window_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/data_window_int.h
+END
+projection.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/4847/trunk/navit/navit/projection.h
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/4137/trunk/navit/navit/event.c
+END
+obj_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/4768/trunk/navit/navit/obj_filter.h
+END
+event.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/4137/trunk/navit/navit/event.h
+END
+linguistics.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/4917/trunk/navit/navit/linguistics.c
+END
+item.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/navit/!svn/ver/4791/trunk/navit/navit/item.c
+END
+navigation.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/4862/trunk/navit/navit/navigation.c
+END
+graphics.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/navit/!svn/ver/4930/trunk/navit/navit/graphics.c
+END
+linguistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/navit/!svn/ver/4096/trunk/navit/navit/linguistics.h
+END
+popup.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/4014/trunk/navit/navit/popup.c
+END
+item.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/navit/!svn/ver/4912/trunk/navit/navit/item.h
+END
+navigation.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/4126/trunk/navit/navit/navigation.h
+END
+graphics.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/navit/!svn/ver/4930/trunk/navit/navit/graphics.h
+END
+popup.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/popup.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/4144/trunk/navit/navit/types.h
+END
+endianess.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/navit/!svn/ver/4807/trunk/navit/navit/endianess.h
+END
+startonce.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/2617/trunk/navit/navit/startonce.sh
+END
+announcement.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/navit/!svn/ver/2183/trunk/navit/navit/announcement.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/navit/!svn/ver/4913/trunk/navit/navit/CMakeLists.txt
+END
+version.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/3589/trunk/navit/navit/version.h.in
+END
+announcement.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/navit/!svn/ver/2183/trunk/navit/navit/announcement.h
+END
+glib_slice.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/3538/trunk/navit/navit/glib_slice.h
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/4516/trunk/navit/navit/cache.c
+END
+search.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/navit/!svn/ver/4917/trunk/navit/navit/search.c
+END
+messages.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/navit/!svn/ver/3297/trunk/navit/navit/messages.c
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/4542/trunk/navit/navit/cache.h
+END
+search.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/navit/!svn/ver/4742/trunk/navit/navit/search.h
+END
+window.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/navit/!svn/ver/2298/trunk/navit/navit/window.h
+END
+sunriset.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/navit/!svn/ver/2752/trunk/navit/navit/sunriset.c
+END
+messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/navit/!svn/ver/2123/trunk/navit/navit/messages.h
+END
+command.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/navit/!svn/ver/4868/trunk/navit/navit/command.c
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/navit/!svn/ver/4832/trunk/navit/navit/file.c
+END
+sunriset.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/navit/!svn/ver/3024/trunk/navit/navit/sunriset.h
+END
+layer.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/layer.h
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/navit/!svn/ver/4189/trunk/navit/navit/log.c
+END
+navit.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/4939/trunk/navit/navit/navit.c
+END
+phrase.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/phrase.c
+END
+command.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/navit/!svn/ver/4517/trunk/navit/navit/command.h
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/navit/!svn/ver/4543/trunk/navit/navit/file.h
+END
+navit.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/navit/!svn/ver/4943/trunk/navit/navit/navit.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/navit/!svn/ver/2627/trunk/navit/navit/log.h
+END
+phrase.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/navit/!svn/ver/1100/trunk/navit/navit/phrase.h
+END
+callback.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/navit/!svn/ver/3973/trunk/navit/navit/callback.c
+END

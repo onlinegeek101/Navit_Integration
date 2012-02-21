@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/navit/!svn/ver/4929/trunk/navit/navit/android/src/org/navitproject/navit
+END
+NavitAddressResultListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/navit/!svn/ver/4789/trunk/navit/navit/android/src/org/navitproject/navit/NavitAddressResultListActivity.java
+END
+NavitGraphics.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/navit/!svn/ver/4804/trunk/navit/navit/android/src/org/navitproject/navit/NavitGraphics.java
+END
+NavitAppConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/navit/!svn/ver/4789/trunk/navit/navit/android/src/org/navitproject/navit/NavitAppConfig.java
+END
+NavitWatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/navit/!svn/ver/4929/trunk/navit/navit/android/src/org/navitproject/navit/NavitWatch.java
+END
+NavitSpeech.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/navit/!svn/ver/4393/trunk/navit/navit/android/src/org/navitproject/navit/NavitSpeech.java
+END
+Navit.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/navit/!svn/ver/4802/trunk/navit/navit/android/src/org/navitproject/navit/Navit.java
+END
+NavitVehicle.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/navit/!svn/ver/4765/trunk/navit/navit/android/src/org/navitproject/navit/NavitVehicle.java
+END
+NavitGraphics2.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/navit/!svn/ver/4393/trunk/navit/navit/android/src/org/navitproject/navit/NavitGraphics2.java
+END
+NavitDownloadSelectMapActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/navit/!svn/ver/4399/trunk/navit/navit/android/src/org/navitproject/navit/NavitDownloadSelectMapActivity.java
+END
+NavitDialogs.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/navit/!svn/ver/4788/trunk/navit/navit/android/src/org/navitproject/navit/NavitDialogs.java
+END
+NavitAndroidOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/navit/!svn/ver/4804/trunk/navit/navit/android/src/org/navitproject/navit/NavitAndroidOverlay.java
+END
+NavitTextTranslations.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/navit/!svn/ver/4865/trunk/navit/navit/android/src/org/navitproject/navit/NavitTextTranslations.java
+END
+NavitTimeout.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/navit/!svn/ver/4393/trunk/navit/navit/android/src/org/navitproject/navit/NavitTimeout.java
+END
+NavitCamera.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/navit/!svn/ver/4393/trunk/navit/navit/android/src/org/navitproject/navit/NavitCamera.java
+END
+NavitAddressSearchActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/navit/!svn/ver/4804/trunk/navit/navit/android/src/org/navitproject/navit/NavitAddressSearchActivity.java
+END
+NavitSpeech2.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/navit/!svn/ver/4393/trunk/navit/navit/android/src/org/navitproject/navit/NavitSpeech2.java
+END
+NavitActivityResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/navit/!svn/ver/3843/trunk/navit/navit/android/src/org/navitproject/navit/NavitActivityResult.java
+END
+NavitSensors.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/navit/!svn/ver/4393/trunk/navit/navit/android/src/org/navitproject/navit/NavitSensors.java
+END
+NavitMapDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/navit/!svn/ver/4844/trunk/navit/navit/android/src/org/navitproject/navit/NavitMapDownloader.java
+END

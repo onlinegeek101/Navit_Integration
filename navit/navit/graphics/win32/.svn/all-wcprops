@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/navit/!svn/ver/4892/trunk/navit/navit/graphics/win32
+END
+graphics_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/navit/!svn/ver/4892/trunk/navit/navit/graphics/win32/graphics_win32.c
+END
+xpm2bmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/4859/trunk/navit/navit/graphics/win32/xpm2bmp.c
+END
+graphics_win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/navit/!svn/ver/2602/trunk/navit/navit/graphics/win32/graphics_win32.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/navit/!svn/ver/3290/trunk/navit/navit/graphics/win32/Makefile.am
+END
+xpm2bmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/2638/trunk/navit/navit/graphics/win32/xpm2bmp.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/navit/!svn/ver/3589/trunk/navit/navit/graphics/win32/CMakeLists.txt
+END

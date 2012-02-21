@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/1847/trunk/navit/navit/tools/gpx2navit_txt/man
+END
+gpx2navit_txt.1
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/tools/gpx2navit_txt/man/gpx2navit_txt.1
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/navit/!svn/ver/1059/trunk/navit/navit/tools/gpx2navit_txt/man/Makefile.am
+END

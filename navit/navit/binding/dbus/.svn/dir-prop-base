@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 97
+Makefile.in
+.libs
+.deps
+Makefile
+org.navit_project.navit.service
+
+CMakeFiles
+cmake_install.cmake
+
+END

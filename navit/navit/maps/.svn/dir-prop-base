@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 157
+Makefile.in
+Makefile
+osm_bbox_11.3,47.9,11.7,48.2.xml
+osm_bbox_11.3,47.9,11.7,48.2.bin
+osm_bbox_11.3,47.9,11.7,48.2.osm.bz2
+
+
+CMakeFiles
+cmake_install.cmake
+
+END

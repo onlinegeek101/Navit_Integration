@@ -1,0 +1,21 @@
+K 10
+svn:ignore
+V 182
+Makefile
+Makefile.in
+Makefile.in.in
+Makevars.template
+Rules-quot
+*.sed
+*.mo
+*.po
+*.header
+*.sin
+navit.pot
+quot.sed
+CMakeFiles
+cmake_install.cmake
+navit_shipped.glade
+navit_shipped.c
+
+END

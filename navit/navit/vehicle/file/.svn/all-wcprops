@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/4927/trunk/navit/navit/vehicle/file
+END
+vehicle_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/4927/trunk/navit/navit/vehicle/file/vehicle_file.c
+END
+vehicle_serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/navit/!svn/ver/3647/trunk/navit/navit/vehicle/file/vehicle_serial.c
+END
+vehicle_socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/navit/!svn/ver/3439/trunk/navit/navit/vehicle/file/vehicle_socket.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/3644/trunk/navit/navit/vehicle/file/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/4465/trunk/navit/navit/vehicle/file/CMakeLists.txt
+END
+vehicle_pipe.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/1883/trunk/navit/navit/vehicle/file/vehicle_pipe.c
+END

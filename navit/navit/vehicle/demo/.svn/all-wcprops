@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/4863/trunk/navit/navit/vehicle/demo
+END
+vehicle_demo.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/4863/trunk/navit/navit/vehicle/demo/vehicle_demo.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/3265/trunk/navit/navit/vehicle/demo/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/3589/trunk/navit/navit/vehicle/demo/CMakeLists.txt
+END

@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/navit/!svn/ver/4850/trunk/navit/navit/support/glib
+END
+ghash.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/1484/trunk/navit/navit/support/glib/ghash.h
+END
+glib_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/1485/trunk/navit/navit/support/glib/glib_init.c
+END
+galias.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/1485/trunk/navit/navit/support/glib/galias.h
+END
+gslice.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/3472/trunk/navit/navit/support/glib/gslice.c
+END
+gprimes.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/1484/trunk/navit/navit/support/glib/gprimes.c
+END
+fake.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/4810/trunk/navit/navit/support/glib/fake.c
+END
+gutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/3472/trunk/navit/navit/support/glib/gutils.c
+END
+glibintl.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/3786/trunk/navit/navit/support/glib/glibintl.h
+END
+gslice.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/1484/trunk/navit/navit/support/glib/gslice.h
+END
+fake.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/4559/trunk/navit/navit/support/glib/fake.h
+END
+gutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/3474/trunk/navit/navit/support/glib/gutils.h
+END
+gmessages.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/1635/trunk/navit/navit/support/glib/gmessages.c
+END
+gstrfuncs.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/4470/trunk/navit/navit/support/glib/gstrfuncs.c
+END
+gtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/1484/trunk/navit/navit/support/glib/gtypes.h
+END
+glist.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/1484/trunk/navit/navit/support/glib/glist.c
+END
+gmessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/1484/trunk/navit/navit/support/glib/gmessages.h
+END
+gatomic.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/3472/trunk/navit/navit/support/glib/gatomic.c
+END
+gstrfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/1484/trunk/navit/navit/support/glib/gstrfuncs.h
+END
+glist.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/1484/trunk/navit/navit/support/glib/glist.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/navit/!svn/ver/4481/trunk/navit/navit/support/glib/CMakeLists.txt
+END
+gutf8.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/3472/trunk/navit/navit/support/glib/gutf8.c
+END
+gquark.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/1484/trunk/navit/navit/support/glib/gquark.h
+END
+gmacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/1484/trunk/navit/navit/support/glib/gmacros.h
+END
+gerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/1485/trunk/navit/navit/support/glib/gerror.c
+END
+gunicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/navit/!svn/ver/1546/trunk/navit/navit/support/glib/gunicode.h
+END
+gslist.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/4470/trunk/navit/navit/support/glib/gslist.c
+END
+gerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/1484/trunk/navit/navit/support/glib/gerror.h
+END
+galloca.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/3970/trunk/navit/navit/support/glib/galloca.h
+END
+glibconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/3472/trunk/navit/navit/support/glib/glibconfig.h
+END
+gprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/1484/trunk/navit/navit/support/glib/gprintf.c
+END
+gslist.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/navit/!svn/ver/4470/trunk/navit/navit/support/glib/gslist.h
+END
+gstring.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/1485/trunk/navit/navit/support/glib/gstring.c
+END
+gprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/navit/!svn/ver/1484/trunk/navit/navit/support/glib/gprintf.h
+END
+gthreadprivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/navit/!svn/ver/1484/trunk/navit/navit/support/glib/gthreadprivate.h
+END
+galiasdef.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/1485/trunk/navit/navit/support/glib/galiasdef.c
+END
+glib.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/3970/trunk/navit/navit/support/glib/glib.h
+END
+gmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/1485/trunk/navit/navit/support/glib/gmem.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/navit/!svn/ver/4470/trunk/navit/navit/support/glib/Makefile.am
+END
+gprintfint.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/navit/!svn/ver/4194/trunk/navit/navit/support/glib/gprintfint.h
+END
+gmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/navit/!svn/ver/1484/trunk/navit/navit/support/glib/gmem.h
+END
+ghash.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/navit/!svn/ver/1484/trunk/navit/navit/support/glib/ghash.c
+END

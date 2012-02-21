@@ -1,0 +1,95 @@
+10
+
+dir
+4944
+https://navit.svn.sourceforge.net/svnroot/navit/trunk/navit/navit/vehicle
+https://navit.svn.sourceforge.net/svnroot/navit
+
+
+
+2012-02-06T15:13:35.068668Z
+4927
+martin-s
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+ffa7fe5e-494d-0410-b361-a75ebd5db220
+
+file
+dir
+
+webos
+dir
+
+android
+dir
+
+iphone
+dir
+
+demo
+dir
+
+wince
+dir
+
+Makefile.am
+file
+
+
+
+
+2012-02-21T22:22:10.059016Z
+90d095e1b461dc47bb60a57266b0ed07
+2010-12-21T15:36:22.517974Z
+3807
+norad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+477
+
+gpsd_dbus
+dir
+
+null
+dir
+
+gypsy
+dir
+
+gpsd
+dir
+
+maemo
+dir
+
